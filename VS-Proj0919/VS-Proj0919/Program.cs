@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,7 +12,7 @@ namespace VS_Proj0919
         static void Main(string[] args)
         {
             Console.WriteLine("project-0919");
-            Thread.Sleep(3000);
+            Thread.Sleep(4000);
             
         }
     }
