@@ -12,7 +12,7 @@ namespace VS_Proj0919
         static void Main(string[] args)
         {
             Console.WriteLine("project-0919");
-            Thread.Sleep(4000);
+            Thread.Sleep(5000);
             
         }
     }
